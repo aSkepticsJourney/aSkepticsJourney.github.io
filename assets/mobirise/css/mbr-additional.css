@@ -1036,58 +1036,6 @@ section.lazy-placeholder:after {
 .cid-rCnxUrqaxC P {
   color: #767676;
 }
-.cid-rCnyGjirP9 {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #e4d295;
-}
-.cid-rCnyGjirP9 P {
-  color: #767676;
-}
-.cid-rCnyGjirP9 .mbr-text,
-.cid-rCnyGjirP9 .mbr-section-btn {
-  color: #232323;
-}
-.cid-rCnxan8ZnP {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #e4d295;
-}
-.cid-rCnxan8ZnP .card-box {
-  padding: 0 2rem;
-}
-.cid-rCnxan8ZnP .mbr-section-btn {
-  padding-top: 1rem;
-}
-.cid-rCnxan8ZnP .mbr-section-btn a {
-  margin-top: 1rem;
-  margin-bottom: 0;
-}
-.cid-rCnxan8ZnP h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-  padding-top: 2rem;
-}
-.cid-rCnxan8ZnP p {
-  margin-bottom: 0;
-  text-align: left;
-  padding-top: 1.5rem;
-}
-.cid-rCnxan8ZnP .mbr-text {
-  color: #767676;
-}
-.cid-rCnxan8ZnP .card-wrapper {
-  height: 100%;
-  padding-bottom: 2rem;
-  background: #ffffff;
-  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
-  transition: box-shadow 0.3s;
-}
-.cid-rCnxan8ZnP .card-wrapper:hover {
-  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
-  transition: box-shadow 0.3s;
-}
 .cid-rCnzhgZFTb {
   padding-top: 45px;
   padding-bottom: 0px;
@@ -1137,6 +1085,58 @@ section.lazy-placeholder:after {
   transition: box-shadow 0.3s;
 }
 .cid-rCnzaQST62 .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+.cid-rCnyGjirP9 {
+  padding-top: 105px;
+  padding-bottom: 0px;
+  background-color: #e4d295;
+}
+.cid-rCnyGjirP9 P {
+  color: #767676;
+}
+.cid-rCnyGjirP9 .mbr-text,
+.cid-rCnyGjirP9 .mbr-section-btn {
+  color: #232323;
+}
+.cid-rCnxan8ZnP {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #e4d295;
+}
+.cid-rCnxan8ZnP .card-box {
+  padding: 0 2rem;
+}
+.cid-rCnxan8ZnP .mbr-section-btn {
+  padding-top: 1rem;
+}
+.cid-rCnxan8ZnP .mbr-section-btn a {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+.cid-rCnxan8ZnP h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-rCnxan8ZnP p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+}
+.cid-rCnxan8ZnP .mbr-text {
+  color: #767676;
+}
+.cid-rCnxan8ZnP .card-wrapper {
+  height: 100%;
+  padding-bottom: 2rem;
+  background: #ffffff;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-rCnxan8ZnP .card-wrapper:hover {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
 }
