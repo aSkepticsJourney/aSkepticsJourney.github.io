@@ -836,9 +836,9 @@ section.lazy-placeholder:after {
   color: #000000;
 }
 .cid-sggRPDBdWW {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background: linear-gradient(45deg, #55b4d4, #ff7f9f);
+  padding-top: 45px;
+  padding-bottom: 0px;
+  background: linear-gradient(45deg, #55b4d4, #fdd5df);
 }
 @media (min-width: 992px) {
   .cid-sggRPDBdWW .mbr-figure {
@@ -860,9 +860,9 @@ section.lazy-placeholder:after {
   text-align: center;
 }
 .cid-sggR3bXUEz {
-  padding-top: 0px;
+  padding-top: 60px;
   padding-bottom: 0px;
-  background: linear-gradient(45deg, #55b4d4, #ff7f9f);
+  background: linear-gradient(45deg, #55b4d4, #fdd5df);
 }
 @media (min-width: 992px) {
   .cid-sggR3bXUEz .mbr-figure {
