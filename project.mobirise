@@ -57,7 +57,8 @@
     "cookiesAlert": false,
     "gdpr": false,
     "imageResize": false,
-    "publishChangesOnly": false
+    "publishChangesOnly": false,
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n"
   },
   "pages": {
     "index.html": {
