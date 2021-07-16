@@ -1037,6 +1037,42 @@ section.lazy-placeholder:after {
 .cid-smXoDH3RtS .mbr-section-subtitle P {
   text-align: center;
 }
+.cid-sDhB7wCJL1 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #b2ccd2;
+}
+.cid-sDhB7wCJL1 P {
+  color: #767676;
+}
+.cid-sDhB7wCJL1 .mbr-text,
+.cid-sDhB7wCJL1 .mbr-section-btn {
+  color: #232323;
+}
+.cid-sDhAq7BBDm {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #e4d295;
+}
+.cid-sDhAq7BBDm P {
+  color: #767676;
+}
+.cid-sDhAq7BBDm .mbr-text,
+.cid-sDhAq7BBDm .mbr-section-btn {
+  color: #232323;
+}
+.cid-sDhzWQ2GQA {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #b2ccd2;
+}
+.cid-sDhzWQ2GQA P {
+  color: #767676;
+}
+.cid-sDhzWQ2GQA .mbr-text,
+.cid-sDhzWQ2GQA .mbr-section-btn {
+  color: #232323;
+}
 .cid-sfNJekpbmx {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -1141,13 +1177,16 @@ section.lazy-placeholder:after {
 .cid-rPRtDcnfY8 .card-wrapper {
   height: 100%;
   padding-bottom: 2rem;
-  background: #ffffff;
+  background: #b2ccd2;
   box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
   transition: box-shadow 0.3s;
 }
 .cid-rPRtDcnfY8 .card-wrapper:hover {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
+}
+.cid-rPRtDcnfY8 .card-title {
+  color: #000000;
 }
 .cid-rMIHnpXzxM {
   padding-top: 0px;
@@ -1229,7 +1268,7 @@ section.lazy-placeholder:after {
 .cid-rCnzaQST62 .card-wrapper {
   height: 100%;
   padding-bottom: 2rem;
-  background: #ffffff;
+  background: #b2ccd2;
   box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
   transition: box-shadow 0.3s;
 }
@@ -1281,7 +1320,7 @@ section.lazy-placeholder:after {
 .cid-rCnxan8ZnP .card-wrapper {
   height: 100%;
   padding-bottom: 2rem;
-  background: #ffffff;
+  background: #e4d295;
   box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
   transition: box-shadow 0.3s;
 }
@@ -1333,7 +1372,7 @@ section.lazy-placeholder:after {
 .cid-rNoPl53eC0 .card-wrapper {
   height: 100%;
   padding-bottom: 2rem;
-  background: #ffffff;
+  background: #b2ccd2;
   box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
   transition: box-shadow 0.3s;
 }
@@ -1385,7 +1424,7 @@ section.lazy-placeholder:after {
 .cid-rNoLVh0Gu5 .card-wrapper {
   height: 100%;
   padding-bottom: 2rem;
-  background: #ffffff;
+  background: #e4d295;
   box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
   transition: box-shadow 0.3s;
 }
