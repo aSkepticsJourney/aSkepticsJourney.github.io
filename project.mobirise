@@ -60,10 +60,7 @@
     "gdpr": false,
     "imageResize": false,
     "publishChangesOnly": false,
-    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "publishType": "github",
-    "gitHubName": "aSkepticsJourney",
-    "gitHubPath": "aSkepticsJourney"
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n"
   },
   "pages": {
     "index.html": {
