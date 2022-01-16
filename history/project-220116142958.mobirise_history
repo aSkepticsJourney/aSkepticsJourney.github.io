@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "A Skeptics Journey",
-    "currentPage": "Contact.html",
+    "currentPage": "contact.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -60,7 +60,11 @@
     "gdpr": false,
     "imageResize": false,
     "publishChangesOnly": false,
-    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n"
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "publishType": "local",
+    "gitHubName": "aSkepticsJourney",
+    "gitHubPath": "aSkepticsJourney",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -1759,7 +1763,7 @@
         }
       ]
     },
-    "Contact.html": {
+    "contact.html": {
       "settings": {
         "meta_descr": "Web Page Maker Description",
         "title": "Contact Me",
