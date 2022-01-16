@@ -967,8 +967,57 @@ section.lazy-placeholder:after {
 .cid-sH3kfF8bc0 .cost {
   text-align: right;
 }
-.cid-sRCkKOqejK {
+.cid-sUIoC4xLL2 {
   padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-sUIoC4xLL2 h4 {
+  width: 85%;
+  font-weight: 500;
+  margin-bottom: 0;
+}
+.cid-sUIoC4xLL2 p {
+  color: #767676;
+}
+.cid-sUIoC4xLL2 .card-wrapper {
+  border-top: 1px solid #000000;
+  background-color: #ffffff;
+  position: relative;
+  justify-content: unset;
+}
+.cid-sUIoC4xLL2 .card-wrapper .card-box {
+  padding: 2rem;
+  width: 100%;
+}
+.cid-sUIoC4xLL2 .card-wrapper .card-box .top-line {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.cid-sUIoC4xLL2 .card-wrapper .card-box .bottom-line {
+  width: 85%;
+}
+@media (max-width: 767px) {
+  .cid-sUIoC4xLL2 .card-wrapper .card-box .bottom-line {
+    width: 100%;
+  }
+  .cid-sUIoC4xLL2 .card-wrapper .card-box .bottom-line p {
+    text-align: center;
+    margin: 1rem 0 0 0;
+  }
+}
+.cid-sUIoC4xLL2 .card-title {
+  text-align: left;
+}
+.cid-sUIoC4xLL2 .cost {
+  text-align: right;
+}
+.cid-sUIoC4xLL2 .b-descr {
+  text-align: left;
+}
+.cid-sRCkKOqejK {
+  padding-top: 0px;
   padding-bottom: 0px;
   background-color: #efefef;
 }
