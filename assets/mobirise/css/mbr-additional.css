@@ -924,53 +924,59 @@ section.lazy-placeholder:after {
 .cid-sGXwMLUtZd .mbr-section-subtitle P {
   text-align: center;
 }
-.cid-sH3kfF8bc0 {
+.cid-t4rvnklsq6 {
   padding-top: 30px;
-  padding-bottom: 0px;
-  background-color: #def0f4;
+  padding-bottom: 30px;
+  background-color: #efefef;
 }
-.cid-sH3kfF8bc0 h4 {
+.cid-t4rvnklsq6 h4 {
   width: 85%;
   font-weight: 500;
   margin-bottom: 0;
 }
-.cid-sH3kfF8bc0 p {
+.cid-t4rvnklsq6 p {
   color: #767676;
 }
-.cid-sH3kfF8bc0 .card-wrapper {
+.cid-t4rvnklsq6 .card-wrapper {
   border-top: 1px solid #000000;
-  background-color: #def0f4;
+  background-color: #ffffff;
   position: relative;
   justify-content: unset;
 }
-.cid-sH3kfF8bc0 .card-wrapper .card-box {
+.cid-t4rvnklsq6 .card-wrapper .card-box {
   padding: 2rem;
   width: 100%;
 }
-.cid-sH3kfF8bc0 .card-wrapper .card-box .top-line {
+.cid-t4rvnklsq6 .card-wrapper .card-box .top-line {
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
-.cid-sH3kfF8bc0 .card-wrapper .card-box .bottom-line {
+.cid-t4rvnklsq6 .card-wrapper .card-box .bottom-line {
   width: 85%;
 }
 @media (max-width: 767px) {
-  .cid-sH3kfF8bc0 .card-wrapper .card-box .bottom-line {
+  .cid-t4rvnklsq6 .card-wrapper .card-box .bottom-line {
     width: 100%;
   }
-  .cid-sH3kfF8bc0 .card-wrapper .card-box .bottom-line p {
+  .cid-t4rvnklsq6 .card-wrapper .card-box .bottom-line p {
     text-align: center;
     margin: 1rem 0 0 0;
   }
 }
-.cid-sH3kfF8bc0 .cost {
+.cid-t4rvnklsq6 .card-title {
+  text-align: left;
+}
+.cid-t4rvnklsq6 .cost {
   text-align: right;
+}
+.cid-t4rvnklsq6 .b-descr {
+  text-align: left;
 }
 .cid-sXEyyGSJ2a {
   padding-top: 0px;
-  padding-bottom: 90px;
-  background-color: #def0f4;
+  padding-bottom: 0px;
+  background-color: #efefef;
 }
 .cid-sXEyyGSJ2a h4 {
   width: 85%;
@@ -982,7 +988,7 @@ section.lazy-placeholder:after {
 }
 .cid-sXEyyGSJ2a .card-wrapper {
   border-top: 1px solid #000000;
-  background-color: #def0f4;
+  background-color: #ffffff;
   position: relative;
   justify-content: unset;
 }
