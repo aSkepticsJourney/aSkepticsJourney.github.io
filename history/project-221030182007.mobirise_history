@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "A Skeptics Journey",
-    "currentPage": "index.html",
+    "currentPage": "Endorsements.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -61,7 +61,9 @@
     "imageResize": false,
     "publishChangesOnly": false,
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "mbrsiteDomain": "adte1ezr8j"
+    "mbrsiteDomain": "adte1ezr8j",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
