@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "A Skeptics Journey",
-    "currentPage": "Events-Friendship-2023.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -46,7 +46,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 331,
+    "uniqCompNum": 329,
     "versionPublish": "5.6.11",
     "favicon": "@PROJECT_PATH@/assets/images/silhoutteoncliffwithsun.jpeg",
     "noImageResize": null,
@@ -61,7 +61,9 @@
     "imageResize": false,
     "publishChangesOnly": false,
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "mbrsiteDomain": "adte1ezr8j"
+    "mbrsiteDomain": "adte1ezr8j",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -3416,7 +3418,7 @@
             "gallery": [
               {
                 "tags": "Responsive",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2023029-1858302023-0-0-19-23-9.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2023029_1858302023-0-0_19-23-9.jpg",
                 "playVideo": true,
                 "videoUrl": "https://youtu.be/0D2FYuO_qwA ",
                 "image": "@PROJECT_PATH@/assets/images/gallery06.jpg",
@@ -3791,98 +3793,6 @@
           "_protectedParams": [],
           "_global": true,
           "_once": "footers",
-          "_params": {}
-        }
-      ]
-    },
-    "Events-Friendship-2023.html": {
-      "settings": {
-        "meta_descr": "Website Maker Description",
-        "title": "Events-Friendship-2023"
-      },
-      "components": [
-        {
-          "alias": false,
-          "_styles": {
-            "background": "@bgColor",
-            "& when (@fullWidth = false)": {
-              "padding-top": "(@paddingTop * 15px)",
-              "padding-bottom": "(@paddingBottom * 15px)"
-            },
-            "& when (@gradientBg)": {
-              "background": "linear-gradient(45deg, @bgColor, @color2)"
-            },
-            ".image-block": {
-              "margin": "auto",
-              "& when (@fullWidth)": {
-                "width": "100% !important"
-              }
-            },
-            ".mbr-figure": {
-              "margin": "0 auto"
-            },
-            "figcaption": {
-              "position": "relative",
-              "div": {
-                "position": "absolute",
-                "bottom": "0",
-                "width": "100%"
-              }
-            },
-            "@media (max-width: 768px)": {
-              ".image-block": {
-                "width": "100% !important"
-              }
-            }
-          },
-          "_name": "image2",
-          "_sourceTheme": "mobirise4",
-          "_customHTML": "<section group=\"Images &amp; Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked=\"\">\n\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline=\"\" title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"100\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg &amp;&amp; fullWidth==false\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n            <img src=\"@PROJECT_PATH@/assets/images/headeronlylarge-1.png\" alt=\"Mobirise\" title=\"\">\n            <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                <div mbr-text=\"\" class=\"pb-5 px-3 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\" data-app-selector=\".mbr-figure-caption div\">\n                    Create awesome websites!\n                </div>\n            </figcaption>\n        </div>\n    </figure>\n</section>",
-          "_anchor": "image2-95",
-          "_isUserblock": true,
-          "_cid": "txbwkTZl3d",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "alias": false,
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            "& when (@bg-type = 'image')": {
-              "background-image": "url(@bg-value)"
-            },
-            ".title": {
-              "margin-bottom": "2rem"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#000000"
-            },
-            "a:not([href]):not([tabindex])": {
-              "color": "#fff",
-              "border-radius": "3px"
-            },
-            "a.btn-white:not([href]):not([tabindex])": {
-              "color": "#333"
-            },
-            "textarea.form-control": {
-              "min-height": "188px"
-            }
-          },
-          "_name": "form1",
-          "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"mbr-section form1\" group=\"Forms\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"8\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/hikeronlongpath.jpeg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row justify-content-center\">\n            <div class=\"title col-12 col-lg-8\">\n                <h2 mbr-if=\"showTitle\" class=\"mbr-section-title align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">\n                    Contact Me</h2>\n                <h3 mbr-if=\"showSubtitle\" class=\"mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-section-subtitle\">\n                    To be notified when the video is available, enter your email below or email me direct at <a href=\"mailto:rick@aSkepticsJourney.com\" class=\"text-primary\">rick@aSkepticsJourney.com\n</a></h3>\n            </div>\n        </div>\n    </div>\n    <div class=\"container\">\n        <div class=\"row justify-content-center\">\n            <div mbr-form class=\"media-container-column col-lg-8\">\n                <!---Formbuilder Form--->\n                <form action=\"aSkepticsJourney@gmail.com\" name=\"Mobirise Form\" method=\"POST\" class=\"mbr-form form-with-styler\" data-verified=\"aSkepticsJourney@gmail.com\">\n                    <div class=\"row\">\n                        <div hidden=\"hidden\" data-form-alert class=\"alert alert-success col-12\">Thanks for registering, look for an email in the future from aSkepticsJourney@gmail.com</div>\n                        <div hidden=\"hidden\" data-form-alert-danger class=\"alert alert-danger col-12\">\n                        </div>\n                    </div>\n                    <div class=\"dragArea row\">\n                        <div class=\"col-md-4  form-group\" data-for=\"name\" hidden=\"hidden\">\n                            <label mbr-text mbr-theme-style=\"display-7\" for=\"name\" class=\"form-control-label mbr-fonts-style\" hidden=\"hidden\"><b>Name</b></label>\n                            <input type=\"text\" name=\"name\" data-form-field=\"Name\" mbr-theme-style=\"display-7\" required=\"required\" class=\"form-control\" hidden=\"hidden\">\n                        </div>\n                        <div class=\"col-md-4  form-group\" data-for=\"email\">\n                            <label mbr-text mbr-theme-style=\"display-7\" for=\"email\" class=\"form-control-label mbr-fonts-style\"><b>Email</b></label>\n                            <input type=\"email\" name=\"email\" data-form-field=\"Email\" mbr-theme-style=\"display-7\" required=\"required\" class=\"form-control\">\n                        </div>\n                        <div data-for=\"phone\" class=\"col-md-4  form-group\" hidden=\"hidden\">\n                            <label mbr-text mbr-theme-style=\"display-7\" for=\"phone\" class=\"form-control-label mbr-fonts-style\" hidden=\"hidden\">Phone</label>\n                            <input type=\"tel\" name=\"phone\" data-form-field=\"Phone\" mbr-theme-style=\"display-7\" class=\"form-control\" hidden=\"hidden\">\n                        </div>\n                        <div data-for=\"message\" class=\"col-md-12 form-group\" hidden=\"hidden\">\n                            <label mbr-text mbr-theme-style=\"display-7\" for=\"message\" class=\"form-control-label mbr-fonts-style\" hidden=\"hidden\"><b>Message</b></label>\n                            <textarea name=\"message\" data-form-field=\"Message\" mbr-theme-style=\"display-7\" class=\"form-control\" hidden=\"hidden\"></textarea>\n                        </div>\n                        <div class=\"col-md-12 input-group-btn align-center\" mbr-buttons=\"true\" mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove,-mbrBtnLink,-mbrBtnAdd\"><a type=\"submit\" class=\"btn btn-form btn-black\" data-app-placeholder=\"Type Text\">Submit</a></div>\n                    </div>\n                </form><!---Formbuilder Form--->\n            </div>\n        </div>\n    </div>\n</section>",
-          "_anchor": "form1-96",
-          "_isUserblock": true,
-          "_cid": "txbwQwbFML",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
           "_params": {}
         }
       ]

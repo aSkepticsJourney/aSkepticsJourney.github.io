@@ -2750,3 +2750,47 @@ section.lazy-placeholder:after {
   padding-bottom: 30px;
   background-color: #000000;
 }
+.cid-txbwkTZl3d {
+  background: #ffffff;
+}
+.cid-txbwkTZl3d .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-txbwkTZl3d .mbr-figure {
+  margin: 0 auto;
+}
+.cid-txbwkTZl3d figcaption {
+  position: relative;
+}
+.cid-txbwkTZl3d figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-txbwkTZl3d .image-block {
+    width: 100% !important;
+  }
+}
+.cid-txbwQwbFML {
+  padding-top: 60px;
+  padding-bottom: 120px;
+  background-color: #ffffff;
+}
+.cid-txbwQwbFML .title {
+  margin-bottom: 2rem;
+}
+.cid-txbwQwbFML .mbr-section-subtitle {
+  color: #000000;
+}
+.cid-txbwQwbFML a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-txbwQwbFML a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-txbwQwbFML textarea.form-control {
+  min-height: 188px;
+}
