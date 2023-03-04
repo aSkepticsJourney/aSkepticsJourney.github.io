@@ -2751,8 +2751,8 @@ section.lazy-placeholder:after {
   background-color: #000000;
 }
 .cid-txj6B51zEP {
-  padding-top: 45px;
-  padding-bottom: 45px;
+  padding-top: 0px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-txj6B51zEP .content-slider {
@@ -3005,7 +3005,7 @@ section.lazy-placeholder:after {
   background: transparent !important;
 }
 .cid-txj6B51zEP .image_wrapper {
-  height: 400px;
+  height: 430px;
   width: 100%;
   position: relative;
   display: inline-block;
@@ -3019,10 +3019,10 @@ section.lazy-placeholder:after {
   text-align: center;
 }
 .cid-txj6B51zEP .content-slider-wrap {
-  width: 60%;
+  width: 57%;
 }
 .cid-txiCakRqzv {
-  padding-top: 0px;
+  padding-top: 30px;
   padding-bottom: 0px;
   background-image: url("../../../assets/images/stillshot-1-800x346.png");
 }
@@ -3114,13 +3114,43 @@ section.lazy-placeholder:after {
 .cid-txiCakRqzv .mbr-section-title {
   color: #ffffff;
 }
-.cid-txjejUfRph {
+.cid-txuFeCng7W {
   padding-top: 15px;
-  padding-bottom: 0px;
+  padding-bottom: 15px;
+  position: relative;
   background-color: #ffffff;
 }
-.cid-txjejUfRph .mbr-section-subtitle {
-  color: #000000;
+.cid-txuFeCng7W p {
+  color: #767676;
+}
+.cid-txuFeCng7W .card {
+  border-radius: 0px;
+  margin-bottom: -1px;
+}
+.cid-txuFeCng7W .card .card-header {
+  border-radius: 0px;
+  border: 0px;
+  padding: 0;
+}
+.cid-txuFeCng7W .card .card-header a.panel-title {
+  margin-bottom: 0;
+  margin-top: -1px;
+  font-weight: 500;
+  font-style: normal;
+  display: block;
+  text-decoration: none !important;
+  line-height: normal;
+}
+.cid-txuFeCng7W .card .card-header a.panel-title:focus {
+  text-decoration: none !important;
+}
+.cid-txuFeCng7W .card .card-header a.panel-title h4 {
+  border: 1px solid #dfdfdf;
+  padding: 1.3rem 2rem;
+  margin-bottom: 0;
+}
+.cid-txuFeCng7W .card .card-header a.panel-title h4 .sign {
+  padding-right: 1rem;
 }
 .cid-txjcB3DeOk {
   padding-top: 30px;
@@ -3131,8 +3161,8 @@ section.lazy-placeholder:after {
   color: #000000;
 }
 .cid-txiCp9OhkQ {
-  padding-top: 90px;
-  padding-bottom: 60px;
+  padding-top: 30px;
+  padding-bottom: 0px;
   position: relative;
   background-image: url("../../../assets/images/crimesceneemtpy-2.png");
 }
@@ -3205,7 +3235,7 @@ section.lazy-placeholder:after {
   color: #000000;
 }
 .cid-txiTMW6Rmf {
-  padding-top: 90px;
+  padding-top: 45px;
   padding-bottom: 60px;
   position: relative;
   background-image: url("../../../assets/images/crimesceneemtpy-3.png");
