@@ -5515,25 +5515,18 @@ section.lazy-placeholder:after {
 .cid-tyffhwK6PI .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-txuSZPsGKb {
-  padding-top: 0px;
+.cid-tzgTvOsmKB {
+  padding-top: 30px;
   padding-bottom: 0px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
-.cid-txuSZPsGKb h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-}
-.cid-txuSZPsGKb p {
+.cid-tzgTvOsmKB P {
   color: #767676;
-  text-align: left;
 }
-.cid-txuSZPsGKb .card-box {
-  padding-top: 2rem;
-}
-.cid-txuSZPsGKb .card-wrapper {
-  height: 100%;
+.cid-tzgTvOsmKB .mbr-text,
+.cid-tzgTvOsmKB .mbr-section-btn {
+  color: #000000;
+  text-align: center;
 }
 .cid-tye0qQ9DHG {
   padding-top: 0px;
