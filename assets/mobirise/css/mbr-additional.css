@@ -1806,6 +1806,49 @@ section.lazy-placeholder:after {
 .cid-tx1rXbnDSV .cost {
   text-align: right;
 }
+.cid-tBmdQpJwB6 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-tBmdQpJwB6 h4 {
+  width: 85%;
+  font-weight: 500;
+  margin-bottom: 0;
+}
+.cid-tBmdQpJwB6 p {
+  color: #767676;
+}
+.cid-tBmdQpJwB6 .card-wrapper {
+  border-top: 1px solid #000000;
+  background-color: #ffffff;
+  position: relative;
+  justify-content: unset;
+}
+.cid-tBmdQpJwB6 .card-wrapper .card-box {
+  padding: 2rem;
+  width: 100%;
+}
+.cid-tBmdQpJwB6 .card-wrapper .card-box .top-line {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.cid-tBmdQpJwB6 .card-wrapper .card-box .bottom-line {
+  width: 85%;
+}
+@media (max-width: 767px) {
+  .cid-tBmdQpJwB6 .card-wrapper .card-box .bottom-line {
+    width: 100%;
+  }
+  .cid-tBmdQpJwB6 .card-wrapper .card-box .bottom-line p {
+    text-align: center;
+    margin: 1rem 0 0 0;
+  }
+}
+.cid-tBmdQpJwB6 .cost {
+  text-align: right;
+}
 .cid-tsMs9qQsEW {
   padding-top: 0px;
   padding-bottom: 0px;
