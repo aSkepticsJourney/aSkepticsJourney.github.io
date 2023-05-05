@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "A Skeptics Journey",
-    "currentPage": "Events.html",
+    "currentPage": "Speaking.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -61,7 +61,9 @@
     "imageResize": false,
     "publishChangesOnly": false,
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "mbrsiteDomain": "jmimndgdav"
+    "mbrsiteDomain": "jmimndgdav",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -670,19 +672,6 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/rickinfront-3.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/rickinfront-3-800x450.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/facebookad-2.png",
                 "thumb": "@PROJECT_PATH@/assets/images/facebookad-2-800x326.png",
                 "alt": "",
@@ -698,6 +687,19 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/stillshot-1.png",
                 "thumb": "@PROJECT_PATH@/assets/images/stillshot-1-800x346.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/2023-02-18-miracle-bible-camp-1.png",
+                "thumb": "@PROJECT_PATH@/assets/images/2023-02-18-miracle-bible-camp-1-800x413.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -722,21 +724,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/11-01-2020-message-1-852x596.png",
-                "thumb": "@PROJECT_PATH@/assets/images/11-01-2020-message-1-852x596-800x443.png",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/2023-02-18-miracle-bible-camp-1.png",
-                "thumb": "@PROJECT_PATH@/assets/images/2023-02-18-miracle-bible-camp-1-800x413.png",
+                "image": "@PROJECT_PATH@/assets/images/11-01-2020-message-852x596.png",
+                "thumb": "@PROJECT_PATH@/assets/images/11-01-2020-message-852x596-800x560.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -761,26 +750,13 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/11-08-2020-message-1-887x751.png",
-                "thumb": "@PROJECT_PATH@/assets/images/11-08-2020-message-1-887x751-800x592.png",
+                "image": "@PROJECT_PATH@/assets/images/11-08-2020-message-887x751.png",
+                "thumb": "@PROJECT_PATH@/assets/images/11-08-2020-message-887x751-800x677.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "",
                 "active": false
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/photo-jan-08-8-20-30-pm-1-800x600-640x504.jpeg",
-                "thumb": "@PROJECT_PATH@/assets/images/photo-jan-08-8-20-30-pm-1-800x600-640x504-640x504.jpeg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "",
-                "active": true
               },
               {
                 "tags": "Responsive",
@@ -800,13 +776,13 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/rickfromback-1.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/rickfromback-1-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/photo-jan-08-8-20-30-pm-1-800x600-640x504.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/photo-jan-08-8-20-30-pm-1-800x600-640x504-640x504.jpeg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Responsive",
