@@ -4973,6 +4973,14 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
+.cid-tKMOtV7mFJ {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/crimesceneemtpy-3.png");
+}
+.cid-tKMOtV7mFJ H2 {
+  color: #000000;
+}
 .cid-th9M1lxb8R {
   padding-top: 30px;
   padding-bottom: 0px;
@@ -5045,6 +5053,30 @@ section.lazy-placeholder:after {
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
+}
+.cid-tKMOEEJXAH {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background: linear-gradient(45deg, #c1c1c1, #ffffff);
+}
+@media (min-width: 992px) {
+  .cid-tKMOEEJXAH .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-tKMOEEJXAH .mbr-figure {
+    padding-top: 3rem;
+  }
+}
+.cid-tKMOEEJXAH .mbr-section-title {
+  color: #000000;
+  text-align: center;
+}
+.cid-tKMOEEJXAH .mbr-text,
+.cid-tKMOEEJXAH .mbr-section-btn {
+  color: #000000;
+  text-align: center;
 }
 .cid-sUIq5ip4Io {
   padding-top: 45px;
