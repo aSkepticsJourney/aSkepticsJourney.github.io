@@ -4976,7 +4976,7 @@ section.lazy-placeholder:after {
 .cid-tKMOtV7mFJ {
   padding-top: 30px;
   padding-bottom: 0px;
-  background-image: url("../../../assets/images/crimesceneemtpy-3.png");
+  background-color: #cccccc;
 }
 .cid-tKMOtV7mFJ H2 {
   color: #000000;
@@ -5078,6 +5078,30 @@ section.lazy-placeholder:after {
   color: #000000;
   text-align: center;
 }
+.cid-tLlSU3ZuRm {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background: linear-gradient(45deg, #c1c1c1, #ffffff);
+}
+@media (min-width: 992px) {
+  .cid-tLlSU3ZuRm .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-tLlSU3ZuRm .mbr-figure {
+    padding-top: 3rem;
+  }
+}
+.cid-tLlSU3ZuRm .mbr-section-title {
+  color: #000000;
+  text-align: center;
+}
+.cid-tLlSU3ZuRm .mbr-text,
+.cid-tLlSU3ZuRm .mbr-section-btn {
+  color: #000000;
+  text-align: center;
+}
 .cid-sUIq5ip4Io {
   padding-top: 45px;
   padding-bottom: 45px;
@@ -5147,54 +5171,6 @@ section.lazy-placeholder:after {
 }
 .cid-sWwqBq5QEo .mbr-text,
 .cid-sWwqBq5QEo .mbr-section-btn {
-  color: #000000;
-  text-align: center;
-}
-.cid-sGXlQZfa6V {
-  padding-top: 45px;
-  padding-bottom: 45px;
-  background: linear-gradient(45deg, #c1c1c1, #ffffff);
-}
-@media (min-width: 992px) {
-  .cid-sGXlQZfa6V .mbr-figure {
-    padding-left: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-sGXlQZfa6V .mbr-figure {
-    padding-top: 3rem;
-  }
-}
-.cid-sGXlQZfa6V .mbr-section-title {
-  color: #000000;
-  text-align: center;
-}
-.cid-sGXlQZfa6V .mbr-text,
-.cid-sGXlQZfa6V .mbr-section-btn {
-  color: #000000;
-  text-align: center;
-}
-.cid-sGXlQZu5yj {
-  padding-top: 45px;
-  padding-bottom: 45px;
-  background: linear-gradient(45deg, #c1c1c1, #ffffff);
-}
-@media (min-width: 992px) {
-  .cid-sGXlQZu5yj .mbr-figure {
-    padding-left: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-sGXlQZu5yj .mbr-figure {
-    padding-top: 3rem;
-  }
-}
-.cid-sGXlQZu5yj .mbr-section-title {
-  color: #000000;
-  text-align: center;
-}
-.cid-sGXlQZu5yj .mbr-text,
-.cid-sGXlQZu5yj .mbr-section-btn {
   color: #000000;
   text-align: center;
 }
