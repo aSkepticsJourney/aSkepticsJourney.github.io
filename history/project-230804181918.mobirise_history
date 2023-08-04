@@ -61,7 +61,9 @@
     "imageResize": false,
     "publishChangesOnly": false,
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "mbrsiteDomain": "jmimndgdav"
+    "mbrsiteDomain": "jmimndgdav",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -709,8 +711,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/audience-2.jpeg",
-                "thumb": "@PROJECT_PATH@/assets/images/audience-2-800x485.jpeg",
+                "image": "@PROJECT_PATH@/assets/images/audience-1.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/audience-1-800x389.jpeg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
