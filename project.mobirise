@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "A Skeptics Journey",
-    "currentPage": "Media.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -61,7 +61,9 @@
     "imageResize": false,
     "publishChangesOnly": false,
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "mbrsiteDomain": "jmimndgdav"
+    "mbrsiteDomain": "jmimndgdav",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -748,8 +750,34 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/2023-09-27-florida.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/2023-09-27-florida-800x600.jpeg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/part1.png",
                 "thumb": "@PROJECT_PATH@/assets/images/part1-800x450.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/2023-11-02-treehouse.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/2023-11-02-treehouse-800x600.jpeg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -826,6 +854,19 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/2023-05-31-czech2-1.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/2023-05-31-czech2-1-800x536.jpeg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/czechletfestprogramwithmyseminar2-1-1233x853-520x126.png",
                 "thumb": "@PROJECT_PATH@/assets/images/czechletfestprogramwithmyseminar2-1-1233x853-520x126-520x126.png",
                 "alt": "",
@@ -859,19 +900,6 @@
                 "customStyle1": "display-7",
                 "caption": "",
                 "active": true
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/2023-05-31-czech2-1.jpeg",
-                "thumb": "@PROJECT_PATH@/assets/images/2023-05-31-czech2-1-800x536.jpeg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "",
-                "active": false
               }
             ]
           }
@@ -6306,7 +6334,7 @@
             "gallery": [
               {
                 "tags": "Creative",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2023-8-0-14-55-48.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2023-8-0_14-55-48.jpg",
                 "playVideo": true,
                 "videoUrl": "https://youtu.be/inJduErYIFs",
                 "image": "@PROJECT_PATH@/assets/images/onstage-silhouette-skeptic.jpg",
@@ -6319,7 +6347,7 @@
               },
               {
                 "tags": "Creative",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2023-8-2-19-36-44.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2023-8-2_19-36-44.jpg",
                 "playVideo": true,
                 "videoUrl": "https://youtu.be/lxAwHR4uAag",
                 "image": "@PROJECT_PATH@/assets/images/warnerwallacetweet-1125x1433.jpg",
@@ -6332,7 +6360,7 @@
               },
               {
                 "tags": "Creative",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2023-8-2-19-39-34.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2023-8-2_19-39-34.jpg",
                 "playVideo": true,
                 "videoUrl": "https://youtu.be/a6MoVAAX9xY",
                 "image": "@PROJECT_PATH@/assets/images/what-to-expect-signs.jpg",
@@ -6345,7 +6373,7 @@
               },
               {
                 "tags": "Responsive",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2023-8-2-20-0-10.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2023-8-2_20-0-10.jpg",
                 "playVideo": true,
                 "videoUrl": "https://youtu.be/Cw7lc3gq-QA",
                 "image": "@PROJECT_PATH@/assets/images/gallery01.jpg",
