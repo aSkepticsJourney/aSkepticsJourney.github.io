@@ -2152,6 +2152,49 @@ section.lazy-placeholder:after {
 .cid-tX0R17xyu5 .cost {
   text-align: right;
 }
+.cid-u1LvJ0jMAx {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-u1LvJ0jMAx h4 {
+  width: 85%;
+  font-weight: 500;
+  margin-bottom: 0;
+}
+.cid-u1LvJ0jMAx p {
+  color: #767676;
+}
+.cid-u1LvJ0jMAx .card-wrapper {
+  border-top: 1px solid #000000;
+  background-color: #ffffff;
+  position: relative;
+  justify-content: unset;
+}
+.cid-u1LvJ0jMAx .card-wrapper .card-box {
+  padding: 2rem;
+  width: 100%;
+}
+.cid-u1LvJ0jMAx .card-wrapper .card-box .top-line {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.cid-u1LvJ0jMAx .card-wrapper .card-box .bottom-line {
+  width: 85%;
+}
+@media (max-width: 767px) {
+  .cid-u1LvJ0jMAx .card-wrapper .card-box .bottom-line {
+    width: 100%;
+  }
+  .cid-u1LvJ0jMAx .card-wrapper .card-box .bottom-line p {
+    text-align: center;
+    margin: 1rem 0 0 0;
+  }
+}
+.cid-u1LvJ0jMAx .cost {
+  text-align: right;
+}
 .cid-tYbfvMcMUr {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -2253,7 +2296,7 @@ section.lazy-placeholder:after {
 }
 .cid-tX0R0tJQgS .card-wrapper {
   border-top: 1px solid #000000;
-  background-color: #ffffff;
+  background-color: #f9f295;
   position: relative;
   justify-content: unset;
 }
