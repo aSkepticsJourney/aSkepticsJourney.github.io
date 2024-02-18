@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "A Skeptics Journey",
-    "currentPage": "register2.html",
+    "currentPage": "Register.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -46,7 +46,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 482,
+    "uniqCompNum": 488,
     "versionPublish": "5.9.4",
     "favicon": "@PROJECT_PATH@/assets/images/silhoutteoncliffwithsun.jpeg",
     "noImageResize": null,
@@ -8634,10 +8634,10 @@
         }
       ]
     },
-    "register2.html": {
+    "Register.html": {
       "settings": {
         "meta_descr": "Site Maker Description",
-        "title": "register2",
+        "title": "Register",
         "order": "8"
       },
       "components": [
