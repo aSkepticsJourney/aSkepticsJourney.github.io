@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "A Skeptics Journey",
-    "currentPage": "Event.html",
+    "currentPage": "Register.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -8634,10 +8634,10 @@
         }
       ]
     },
-    "Event.html": {
+    "Register.html": {
       "settings": {
         "meta_descr": "Site Maker Description",
-        "title": "Event",
+        "title": "Register",
         "order": "8"
       },
       "components": [
