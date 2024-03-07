@@ -2109,49 +2109,6 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
-.cid-tX0R0tJQgS {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #efefef;
-}
-.cid-tX0R0tJQgS h4 {
-  width: 85%;
-  font-weight: 500;
-  margin-bottom: 0;
-}
-.cid-tX0R0tJQgS p {
-  color: #767676;
-}
-.cid-tX0R0tJQgS .card-wrapper {
-  border-top: 1px solid #000000;
-  background-color: #ffffff;
-  position: relative;
-  justify-content: unset;
-}
-.cid-tX0R0tJQgS .card-wrapper .card-box {
-  padding: 2rem;
-  width: 100%;
-}
-.cid-tX0R0tJQgS .card-wrapper .card-box .top-line {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-.cid-tX0R0tJQgS .card-wrapper .card-box .bottom-line {
-  width: 85%;
-}
-@media (max-width: 767px) {
-  .cid-tX0R0tJQgS .card-wrapper .card-box .bottom-line {
-    width: 100%;
-  }
-  .cid-tX0R0tJQgS .card-wrapper .card-box .bottom-line p {
-    text-align: center;
-    margin: 1rem 0 0 0;
-  }
-}
-.cid-tX0R0tJQgS .cost {
-  text-align: right;
-}
 .cid-tYbfvMcMUr {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -2368,12 +2325,55 @@ section.lazy-placeholder:after {
   text-align: right;
 }
 .cid-u4Mk0yevkS {
-  padding-top: 30px;
+  padding-top: 15px;
   padding-bottom: 0px;
   background-color: #cccccc;
 }
 .cid-u4Mk0yevkS H2 {
   color: #000000;
+}
+.cid-tX0R0tJQgS {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-tX0R0tJQgS h4 {
+  width: 85%;
+  font-weight: 500;
+  margin-bottom: 0;
+}
+.cid-tX0R0tJQgS p {
+  color: #767676;
+}
+.cid-tX0R0tJQgS .card-wrapper {
+  border-top: 1px solid #000000;
+  background-color: #ffffff;
+  position: relative;
+  justify-content: unset;
+}
+.cid-tX0R0tJQgS .card-wrapper .card-box {
+  padding: 2rem;
+  width: 100%;
+}
+.cid-tX0R0tJQgS .card-wrapper .card-box .top-line {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.cid-tX0R0tJQgS .card-wrapper .card-box .bottom-line {
+  width: 85%;
+}
+@media (max-width: 767px) {
+  .cid-tX0R0tJQgS .card-wrapper .card-box .bottom-line {
+    width: 100%;
+  }
+  .cid-tX0R0tJQgS .card-wrapper .card-box .bottom-line p {
+    text-align: center;
+    margin: 1rem 0 0 0;
+  }
+}
+.cid-tX0R0tJQgS .cost {
+  text-align: right;
 }
 .cid-tX0QQP9Olj {
   padding-top: 0px;
