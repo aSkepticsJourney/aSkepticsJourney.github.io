@@ -2109,6 +2109,57 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
+.cid-uqIEOjyGqy {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-uqIEOjyGqy h4 {
+  width: 85%;
+  font-weight: 500;
+  margin-bottom: 0;
+}
+.cid-uqIEOjyGqy p {
+  color: #767676;
+}
+.cid-uqIEOjyGqy .card-wrapper {
+  border-top: 1px solid #000000;
+  background-color: #ffffff;
+  position: relative;
+  justify-content: unset;
+}
+.cid-uqIEOjyGqy .card-wrapper .card-box {
+  padding: 2rem;
+  width: 100%;
+}
+.cid-uqIEOjyGqy .card-wrapper .card-box .top-line {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.cid-uqIEOjyGqy .card-wrapper .card-box .bottom-line {
+  width: 85%;
+}
+@media (max-width: 767px) {
+  .cid-uqIEOjyGqy .card-wrapper .card-box .bottom-line {
+    width: 100%;
+  }
+  .cid-uqIEOjyGqy .card-wrapper .card-box .bottom-line p {
+    text-align: center;
+    margin: 1rem 0 0 0;
+  }
+}
+.cid-uqIEOjyGqy .cost {
+  text-align: right;
+}
+.cid-u4Mk0yevkS {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #cccccc;
+}
+.cid-u4Mk0yevkS H2 {
+  color: #000000;
+}
 .cid-ufMRoFZ2xo {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -2152,13 +2203,48 @@ section.lazy-placeholder:after {
 .cid-ufMRoFZ2xo .cost {
   text-align: right;
 }
-.cid-u4Mk0yevkS {
-  padding-top: 15px;
+.cid-uqIENA5Jx7 {
+  padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #cccccc;
+  background-color: #efefef;
 }
-.cid-u4Mk0yevkS H2 {
-  color: #000000;
+.cid-uqIENA5Jx7 h4 {
+  width: 85%;
+  font-weight: 500;
+  margin-bottom: 0;
+}
+.cid-uqIENA5Jx7 p {
+  color: #767676;
+}
+.cid-uqIENA5Jx7 .card-wrapper {
+  border-top: 1px solid #000000;
+  background-color: #ffffff;
+  position: relative;
+  justify-content: unset;
+}
+.cid-uqIENA5Jx7 .card-wrapper .card-box {
+  padding: 2rem;
+  width: 100%;
+}
+.cid-uqIENA5Jx7 .card-wrapper .card-box .top-line {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.cid-uqIENA5Jx7 .card-wrapper .card-box .bottom-line {
+  width: 85%;
+}
+@media (max-width: 767px) {
+  .cid-uqIENA5Jx7 .card-wrapper .card-box .bottom-line {
+    width: 100%;
+  }
+  .cid-uqIENA5Jx7 .card-wrapper .card-box .bottom-line p {
+    text-align: center;
+    margin: 1rem 0 0 0;
+  }
+}
+.cid-uqIENA5Jx7 .cost {
+  text-align: right;
 }
 .cid-u9Ydy7t0Qy {
   padding-top: 0px;
