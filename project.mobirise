@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "A Skeptics Journey",
-    "currentPage": "Events.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -61,9 +61,7 @@
     "imageResize": false,
     "publishChangesOnly": false,
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "mbrsiteDomain": "jmimndgdav",
-    "publishType": "local",
-    "publishPath": "@PROJECT_PATH@"
+    "mbrsiteDomain": "jmimndgdav"
   },
   "pages": {
     "index.html": {
@@ -691,6 +689,19 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/rick-duluth-blitz-2025-4.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/rick-duluth-blitz-2025-4-800x451.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/rickinfront-3.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/rickinfront-3-800x450.jpg",
                 "alt": "",
@@ -717,8 +728,34 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/rickfromback-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/rickfromback-1-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/img-756.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-756-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/2024-04-20-duluth-blitz-table3-fromback.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2024-04-20-duluth-blitz-table3-fromback-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -769,8 +806,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/part1.png",
-                "thumb": "@PROJECT_PATH@/assets/images/part1-800x450.png",
+                "image": "@PROJECT_PATH@/assets/images/img-9072.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-9072-800x327.jpeg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -782,8 +819,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/2024-04-20-duluth-blitz-table3-fromback.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2024-04-20-duluth-blitz-table3-fromback-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/part1.png",
+                "thumb": "@PROJECT_PATH@/assets/images/part1-800x450.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -815,6 +852,19 @@
                 "customStyle1": "display-7",
                 "caption": "",
                 "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/2024-04-20-duluth-blitz-s1-frontofcrowd2.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/2024-04-20-duluth-blitz-s1-frontofcrowd2-800x429.jpeg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "",
+                "active": true
               },
               {
                 "tags": "Responsive",
@@ -886,19 +936,6 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/rickfromback-1.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/rickfromback-1-800x450.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/2023-06-04-czech.png",
                 "thumb": "@PROJECT_PATH@/assets/images/2023-06-04-czech-800x600.png",
                 "alt": "",
@@ -944,7 +981,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
@@ -7329,7 +7366,7 @@
             "gallery": [
               {
                 "tags": "Creative",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2023-8-0_14-55-48.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2023-8-0-14-55-48.jpg",
                 "playVideo": true,
                 "videoUrl": "https://youtu.be/inJduErYIFs",
                 "image": "@PROJECT_PATH@/assets/images/onstage-silhouette-skeptic.jpg",
@@ -7342,7 +7379,7 @@
               },
               {
                 "tags": "Creative",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2023-8-2_19-36-44.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2023-8-2-19-36-44.jpg",
                 "playVideo": true,
                 "videoUrl": "https://youtu.be/lxAwHR4uAag",
                 "image": "@PROJECT_PATH@/assets/images/warnerwallacetweet-1125x1433.jpg",
@@ -7355,7 +7392,7 @@
               },
               {
                 "tags": "Creative",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2023-8-2_19-39-34.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2023-8-2-19-39-34.jpg",
                 "playVideo": true,
                 "videoUrl": "https://youtu.be/a6MoVAAX9xY",
                 "image": "@PROJECT_PATH@/assets/images/what-to-expect-signs.jpg",
@@ -7368,7 +7405,7 @@
               },
               {
                 "tags": "Responsive",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2023-8-2_20-0-10.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2023-8-2-20-0-10.jpg",
                 "playVideo": true,
                 "videoUrl": "https://youtu.be/Cw7lc3gq-QA",
                 "image": "@PROJECT_PATH@/assets/images/gallery01.jpg",
