@@ -6115,49 +6115,6 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
-.cid-vfXNUOEf9f {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #efefef;
-}
-.cid-vfXNUOEf9f h4 {
-  width: 85%;
-  font-weight: 500;
-  margin-bottom: 0;
-}
-.cid-vfXNUOEf9f p {
-  color: #767676;
-}
-.cid-vfXNUOEf9f .card-wrapper {
-  border-top: 1px solid #000000;
-  background-color: #ffffff;
-  position: relative;
-  justify-content: unset;
-}
-.cid-vfXNUOEf9f .card-wrapper .card-box {
-  padding: 2rem;
-  width: 100%;
-}
-.cid-vfXNUOEf9f .card-wrapper .card-box .top-line {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-.cid-vfXNUOEf9f .card-wrapper .card-box .bottom-line {
-  width: 85%;
-}
-@media (max-width: 767px) {
-  .cid-vfXNUOEf9f .card-wrapper .card-box .bottom-line {
-    width: 100%;
-  }
-  .cid-vfXNUOEf9f .card-wrapper .card-box .bottom-line p {
-    text-align: center;
-    margin: 1rem 0 0 0;
-  }
-}
-.cid-vfXNUOEf9f .cost {
-  text-align: right;
-}
 .cid-vh9w4xfGvU {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -6294,6 +6251,49 @@ section.lazy-placeholder:after {
 }
 .cid-u4Mk0yevkS H2 {
   color: #000000;
+}
+.cid-vfXNUOEf9f {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-vfXNUOEf9f h4 {
+  width: 85%;
+  font-weight: 500;
+  margin-bottom: 0;
+}
+.cid-vfXNUOEf9f p {
+  color: #767676;
+}
+.cid-vfXNUOEf9f .card-wrapper {
+  border-top: 1px solid #000000;
+  background-color: #ffffff;
+  position: relative;
+  justify-content: unset;
+}
+.cid-vfXNUOEf9f .card-wrapper .card-box {
+  padding: 2rem;
+  width: 100%;
+}
+.cid-vfXNUOEf9f .card-wrapper .card-box .top-line {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.cid-vfXNUOEf9f .card-wrapper .card-box .bottom-line {
+  width: 85%;
+}
+@media (max-width: 767px) {
+  .cid-vfXNUOEf9f .card-wrapper .card-box .bottom-line {
+    width: 100%;
+  }
+  .cid-vfXNUOEf9f .card-wrapper .card-box .bottom-line p {
+    text-align: center;
+    margin: 1rem 0 0 0;
+  }
+}
+.cid-vfXNUOEf9f .cost {
+  text-align: right;
 }
 .cid-vfXNTetzGi {
   padding-top: 0px;
